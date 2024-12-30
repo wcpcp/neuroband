@@ -1,7 +1,7 @@
-# ** ![neuroband](https://github.com/wcpcp/neuroband/blob/main/asset/neuroband.jpg) NeuroBand: A Neural Dubber of Any Musical Instrument**
+# ![neuroband](https://github.com/wcpcp/neuroband/blob/main/asset/neuroband.jpg) NeuroBand: A Neural Dubber of Any Musical Instrument
 Offical implementation of the paper: NeuroBand: A Neural Dubber of Any Musical Instrument.
 
-## **News**
+## 🔥**News**
 (🔥New) 2024/12/30 NeuroBand training Pipeline is released! See the 'training'.
 
 (🔥New) 2023/11/5 NeuroBand inference Pipeline is released! See the 'inference'.
