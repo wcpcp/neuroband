@@ -66,40 +66,40 @@ bash launch_audioldm_fm.sh
 
 ## 🖼️ Results
 
-<!-- <table border="0" style="width: 100%; text-align: left; margin-top: 20px;">
+<table border="0" style="width: 100%; text-align: left; margin-top: 20px;">
   <tr>
     <td>
       <h2>Drum</h2>
-      <video src="https://raw.githubusercontent.com/wcpcp/neuroband/main/asset/4c41c1a120f6732cd4356073a6c4821c.mp4" width="100%" controls autoplay loop></video>
+      <video src="https://github.com/user-attachments/assets/62a887a0-d614-48a2-a8a0-3e6723fdbee7" width="100%" controls autoplay loop></video>
     </td>
   </tr>
   <tr>
     <td>
       <h2>Accordion</h2>
-      <video src="https://raw.githubusercontent.com/wcpcp/neuroband/main/asset/4d08b9d53d0b363aa1cd87d4a29d0908.mp4" width="100%" controls autoplay loop></video>
+      <video src="https://github.com/user-attachments/assets/ebb949b4-0be4-4b79-91c6-654eac520bf1" width="100%" controls autoplay loop></video>
     </td>
   </tr>
   <tr>
     <td>
       <h2>Guitar</h2>
-      <video src="https://raw.githubusercontent.com/wcpcp/neuroband/main/asset/5cb8c80b954562b49e266fd9bd7e4bad.mp4" width="100%" controls autoplay loop></video>
+      <video src="https://github.com/user-attachments/assets/bea4f0af-1779-4918-ad0d-329c46559736" width="100%" controls autoplay loop></video>
     </td>
   </tr>
   <tr>
     <td>
       <h2>Piano</h2>
-      <video src="https://raw.githubusercontent.com/wcpcp/neuroband/main/asset/51f039b89e99b0d9facbf6d8f6e74928.mp4" width="100%" controls autoplay loop></video>
+      <video src="https://github.com/user-attachments/assets/0bdad2c4-a6e5-4c03-aea1-61334eadacd5" width="100%" controls autoplay loop></video>
     </td>
   </tr>
   <tr>
     <td>
       <h2>Guzheng</h2>
-      <video src="https://raw.githubusercontent.com/wcpcp/neuroband/main/asset/47606ad9f57be942cf5ab6a9a38e2b5f.mp4" width="100%" controls autoplay loop></video>
+      <video src="https://github.com/user-attachments/assets/c6d63e95-8e74-43f4-98d0-f9833ea2c40a" width="100%" controls autoplay loop></video>
     </td>
   </tr>
-</table> -->
+</table>
 
-**Drum**
+<!-- **Drum**
 <video width="320" height="240" controls>
   <source src="https://raw.githubusercontent.com/wcpcp/neuroband/main/asset/4c41c1a120f6732cd4356073a6c4821c.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -127,7 +127,7 @@ bash launch_audioldm_fm.sh
 <video width="320" height="240" controls>
   <source src="https://raw.githubusercontent.com/wcpcp/neuroband/main/asset/47606ad9f57be942cf5ab6a9a38e2b5f.mp4?raw=true" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video> -->
 
 
 ## Acknowledgement
