@@ -39,8 +39,10 @@ The data structure is like this:
 >>>CAVP_feat
 >>>>Test
 >>>>Train
+
 >>>Test
 >>>>audio_npy_spec
+
 >>>Train
 >>video_dir
 
@@ -62,12 +64,16 @@ bash launch_audioldm_fm.sh
 ## Result
 **Drum**
 ![](https://github.com/wcpcp/neuroband/blob/main/asset/4c41c1a120f6732cd4356073a6c4821c.mp4)
+
 **accordion**
 ![](https://github.com/wcpcp/neuroband/blob/main/asset/4d08b9d53d0b363aa1cd87d4a29d0908.mp4)
+
 **guitar**
 ![](https://github.com/wcpcp/neuroband/blob/main/asset/5cb8c80b954562b49e266fd9bd7e4bad.mp4)
+
 **piano**
 ![](https://github.com/wcpcp/neuroband/blob/main/asset/51f039b89e99b0d9facbf6d8f6e74928.mp4)
+
 **guzheng**
 ![](https://github.com/wcpcp/neuroband/blob/main/asset/47606ad9f57be942cf5ab6a9a38e2b5f.mp4)
 
