@@ -48,6 +48,7 @@ dataset
 │  ├── Train
 
 
+
 ### Training
 ```Bash
 bash launch_audioldm_fm.sh
@@ -63,42 +64,70 @@ bash launch_audioldm_fm.sh
 *  Release dataset YouTube-Music, Douyin-Music and MUSIC-solo
 
 ## Result
-
 ## 🖼️ Results
 
 <table border="0" style="width: 100%; text-align: left; margin-top: 20px;">
   <tr>
     <td>
       <h2>Drum</h2>
-      <video src="https://github.com/wcpcp/neuroband/raw/main/asset/4c41c1a120f6732cd4356073a6c4821c.mp4" width="100%" controls autoplay loop></video>
+      <video src="https://github.com/wcpcp/neuroband/blob/main/asset/4c41c1a120f6732cd4356073a6c4821c.mp4?raw=true" width="100%" controls autoplay loop></video>
     </td>
   </tr>
   <tr>
     <td>
       <h2>Accordion</h2>
-      <video src="https://github.com/wcpcp/neuroband/raw/main/asset/4d08b9d53d0b363aa1cd87d4a29d0908.mp4" width="100%" controls autoplay loop></video>
+      <video src="https://github.com/wcpcp/neuroband/blob/main/asset/4d08b9d53d0b363aa1cd87d4a29d0908.mp4?raw=true" width="100%" controls autoplay loop></video>
     </td>
   </tr>
   <tr>
     <td>
       <h2>Guitar</h2>
-      <video src="https://github.com/wcpcp/neuroband/raw/main/asset/5cb8c80b954562b49e266fd9bd7e4bad.mp4" width="100%" controls autoplay loop></video>
+      <video src="https://github.com/wcpcp/neuroband/blob/main/asset/5cb8c80b954562b49e266fd9bd7e4bad.mp4?raw=true" width="100%" controls autoplay loop></video>
     </td>
   </tr>
   <tr>
     <td>
       <h2>Piano</h2>
-      <video src="https://github.com/wcpcp/neuroband/raw/main/asset/51f039b89e99b0d9facbf6d8f6e74928.mp4" width="100%" controls autoplay loop></video>
+      <video src="https://github.com/wcpcp/neuroband/blob/main/asset/51f039b89e99b0d9facbf6d8f6e74928.mp4?raw=true" width="100%" controls autoplay loop></video>
     </td>
   </tr>
   <tr>
     <td>
       <h2>Guzheng</h2>
-      <video src="https://github.com/wcpcp/neuroband/raw/main/asset/47606ad9f57be942cf5ab6a9a38e2b5f.mp4" width="100%" controls autoplay loop></video>
+      <video src="https://github.com/wcpcp/neuroband/blob/main/asset/47606ad9f57be942cf5ab6a9a38e2b5f.mp4?raw=true" width="100%" controls autoplay loop></video>
     </td>
   </tr>
 </table>
 
+<!-- **Drum**
+<video width="320" height="240" controls>
+  <source src="https://github.com/wcpcp/neuroband/blob/main/asset/4c41c1a120f6732cd4356073a6c4821c.mp4?raw=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+**Accordion**
+<video width="320" height="240" controls>
+  <source src="https://github.com/wcpcp/neuroband/blob/main/asset/4d08b9d53d0b363aa1cd87d4a29d0908.mp4?raw=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+**Guitar**
+<video width="320" height="240" controls>
+  <source src="https://github.com/wcpcp/neuroband/blob/main/asset/5cb8c80b954562b49e266fd9bd7e4bad.mp4?raw=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+**Piano**
+<video width="320" height="240" controls>
+  <source src="https://github.com/wcpcp/neuroband/blob/main/asset/51f039b89e99b0d9facbf6d8f6e74928.mp4?raw=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+**Guzheng**
+<video width="320" height="240" controls>
+  <source src="https://github.com/wcpcp/neuroband/blob/main/asset/47606ad9f57be942cf5ab6a9a38e2b5f.mp4?raw=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video> -->
 
 
 ## Acknowledgement
